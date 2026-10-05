@@ -1,2 +1,2 @@
-# Amazon_Website_Clone_Project
-A clone of the Amazon website developed as a personal web development project to practice and demonstrate front-end development, UI design, and e-commerce website functionality.
+# Amazon-UI-Clone-Project
+A frontend UI clone of the Amazon website built using HTML and CSS. This project recreates the basic layout, navigation bar, product sections, and visual design of Amazon as a practice project for improving frontend development and CSS skills.
